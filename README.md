@@ -1,1 +1,1 @@
-# a data driven analysis of ATS-friendly resumes
+# Analyzing Freelancing Trends and Sustainability
